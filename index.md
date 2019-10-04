@@ -173,10 +173,6 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
-
-{% comment %}
-SCHEDULE
-
 {% comment %}
   SCHEDULE -- The original Schedule template is utterly messed up in that it (1) includes the link to the surveys which should be getting thier own header, and (2) does not allow to change the schedule template/tables. We are therefore using a table made from scratch and will not display the schedule included with the template.
 {% endcomment %}
