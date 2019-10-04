@@ -642,31 +642,3 @@ Writing code is much easier with respectively optimized text editors that includ
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
-
-
-
-{% comment %}
-    Some instructors prefer to have learners use a virtual machine (VM)
-    rather than install software on their own computers.  If your
-    instructors have chosen to do this, please:
-  {% endcomment %}
-
-<div id="vm">
-  <h3>Virtual Machine</h3>
- <p>
-  <ol>
-    <li>
-      Install <a href="https://www.virtualbox.org/">VirtualBox</a>.
-    </li>
-    <li>
-      Download our <a href="{{site.swc_vm}}">VM image</a>.
-      <strong>Warning:</strong> this file is 1.7 GByte, so please
-      download it <em>before</em> coming to your workshop.
-    </li>
-    <li>
-      Load the VM into VirtualBox by selecting "Import Appliance" and
-      loading the <code>.ova</code> file.
-    </li>
-  </ol>
-  </p>
-</div>
