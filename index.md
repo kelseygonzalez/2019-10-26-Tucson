@@ -646,14 +646,14 @@ Writing code is much easier with respectively optimized text editors that includ
 
 
 {% comment %}
-<div id="vm">
-  <h3>Virtual Machine</h3>
-
-  <p>
     Some instructors prefer to have learners use a virtual machine (VM)
     rather than install software on their own computers.  If your
     instructors have chosen to do this, please:
-  </p>
+  {% endcomment %}
+
+<div id="vm">
+  <h3>Virtual Machine</h3>
+ <p>
   <ol>
     <li>
       Install <a href="https://www.virtualbox.org/">VirtualBox</a>.
@@ -668,5 +668,5 @@ Writing code is much easier with respectively optimized text editors that includ
       loading the <code>.ova</code> file.
     </li>
   </ol>
+  </p>
 </div>
-{% endcomment %}
