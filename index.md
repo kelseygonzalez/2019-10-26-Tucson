@@ -19,7 +19,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 
-<p><h4><center><strong>Apply for the workshop at <a href="" target='blank'>URLURLURL</a>.</strong></center></h4></p>
+<p><h4><center><strong>Apply for the workshop at <a href="http://bit.ly/356EkJl" target='blank'>http://bit.ly/356EkJl</a>.</strong></center></h4></p>
 
 <h2 id="general">General Information</h2>
 
