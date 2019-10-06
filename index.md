@@ -97,7 +97,7 @@ Modify the block below if there are any special requirements.
 CODE OF CONDUCT
 {% endcomment %}
 <p id="code-of-conduct">
-<strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+<strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to adhere to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 </p>
 
 
@@ -201,7 +201,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:00</td>  <td>R/R-Studio/git/GitHub, cont.</td> </tr>
       <tr> <td>14:45</td>  <td>Coffee</td> </tr>
-      <tr> <td>16:00</td>  <td>End of Day</td> </tr>
+      <tr> <td>17:00</td>  <td>End of Day</td> </tr>
     </table>
   </div>
 </div>
@@ -333,7 +333,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Computer Preparation</h2>
 
 <p>
-  To participate in a
+  To participate in the
   {% if page.carpentry == "swc" %}
   Software Carpentry
   {% elsif page.carpentry == "dc" %}
@@ -455,7 +455,7 @@ Writing code is much easier with respectively optimized text editors that includ
 <p>
 	Click the Start button and type 'git bash' into the search window.<br> 
 	Click on the "Git Bash" icon to open the shell.<br>
-	Type 'nano test.txt' to open a text editor. <strong>IF this does not open the nano text editor contact the workshop administrator at the email listed above.</strong><br>
+	Type 'nano test.txt' to open a text editor. <strong>If this does not open the nano text editor contact the workshop administrator at the email listed above.</strong><br>
 	Type 'Test'.<br>
 	To exit the nano editor press Ctrl and type 'x' (a.k.a. '^X'; additional commands are listed at the bottom of the text edito window.
       </p>
