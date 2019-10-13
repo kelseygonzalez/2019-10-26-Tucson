@@ -11,8 +11,8 @@ humandate: "Oct 26-27, 2019"    # human-readable dates for the workshop (e.g., "
 humantime: "8:30 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-10-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-10-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Noah Nelson", "Xue Pan", "Sateesh Peri", "Travis Struck", "Uwe Hilgert"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Drake	Asberry", "Brian	Bell", "Kelsey	Gonzalez", "Uwe Hilgert", "Jennifer	Kadowaki", "David	LeBauer", "Torbet	McNeil", "Erica	Newman", "Cristian Palacios", "Adriana	Picoral", "Fernando Rios", "Austin	Rutherford", "Saren	Seeley", "Marnee Dearman"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Noah Nelson", "Sateesh Peri", "Kelsey	Gonzalez", "Xue Pan", "Travis Struck", "Uwe Hilgert"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Drake	Asberry", "Brian	Bell", "Jennifer	Kadowaki", "David	LeBauer", "Torbet	McNeil", "Erica	Newman", "Cristian Palacios", "Adriana	Picoral", "Fernando Rios", "Austin	Rutherford", "Saren	Seeley", "Marnee Dearman"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hilgert@bio5.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -318,18 +318,6 @@ please preview your site before committing, and make sure to run
   <hr/>
   <hr/>
 
-{% comment %}
-SETUP
-
-Delete irrelevant sections from the setup instructions.  Each
-section is inside a 'div' without any classes to make the beginning
-and end easier to find.
-
-This is the other place where people frequently make mistakes, so
-please preview your site before committing, and make sure to run
-'tools/check' as well.
-{% endcomment %}
-
 <h2 id="setup">Computer Preparation</h2>
 
 <p>
@@ -370,24 +358,18 @@ If even this does not help, please get in touch with us using contact details ab
       <li>Run the installer and follow the steps bellow:
           <ol>
             {% comment %}  "Information" {% endcomment %}
-            <li>Click on "Next".</li>
-            {% comment %}  "Select Destination Location" {% endcomment %}
-            <li>Click on "Next".</li>
-            {% comment %}  "Select Components" {% endcomment %}
-            <li>Click on "Next".</li>
-	    {% comment %}  "Select Start Menu Folder" {% endcomment %}
-            <li>Click on "Next".</li>
-	    {% comment %}  "Choosing Default Editor" {% endcomment %}
-	   <li>Select "<strong>Use the Nano editor by default</strong>"</li>
+            <liClick on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.</li>
+            {% comment %}  "Choosing Default Editor" {% endcomment %}
+	   <li>Select "<strong>From the dropdown menu select "Use the nano editor by default" and click on "Next".</strong>"</li>
            <li>Click on "Next".</li>
             {% comment %} "Adjusting your PATH environment" {% endcomment %}
-	   <li>Ensure that "<strong>Use Git from the Windows Command Prompt</strong>" is selected. (If you forget to do this gitbash will not work properly, requiring you to <strong>remove the GitBash installation, re-run the installer</strong> and to select the "Use Git from the Windows Command Prompt" option.)</li>
+	   <li>Ensure that "<strong>Git from the command line and also from 3rd-party software</strong>" is selected. (If you don't do this gitbash will not work properly, requiring you to <strong>remove the GitBash installation, re-run the installer</strong> and to select the "Git from the command line and also from 3rd-party software" option.)</li>
            <li>Click on "Next".</li>
 	  {% comment %} Choosing the SSH executable {% endcomment %}
-            <li>Ensure that "<strong>Use the OpenSSL Library</strong>" is selected.</li>
+            <li>Select "<strong>Use the native Windows Secure Channel library</strong>".</li>
            <li>Click on "Next".</li>
             {% comment %} Configuring the line ending conversions {% endcomment %}
-            <li>Ensure that "<strong>Checkout Windows-style, commit Unix-style line endings</strong>" is selected.</li>
+            <li>Select "<strong>Checkout Windows-style, commit Unix-style line endings</strong>".</li>
            <li>Click on "Next".</li>
             {% comment %} Configuring the terminal emulator to use with Git Bash {% endcomment %}
 	    <li>Ensure that "<strong>Use Windows' default console window</strong>" is selected.</li>
