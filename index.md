@@ -358,7 +358,7 @@ If even this does not help, please get in touch with us using contact details ab
       <li>Run the installer and follow the steps bellow:
           <ol>
             {% comment %}  "Information" {% endcomment %}
-            <liClick on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.</li>
+            <li>Click on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.</li>
             {% comment %}  "Choosing Default Editor" {% endcomment %}
 	   <li>Select "<strong>From the dropdown menu select "Use the nano editor by default" and click on "Next".</strong>"</li>
            <li>Click on "Next".</li>
