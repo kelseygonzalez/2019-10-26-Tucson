@@ -360,23 +360,17 @@ If even this does not help, please get in touch with us using contact details ab
             {% comment %}  "Information" {% endcomment %}
             <li>Click on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.</li>
             {% comment %}  "Choosing Default Editor" {% endcomment %}
-	   <li>Select "<strong>From the dropdown menu select "Use the nano editor by default" and click on "Next".</strong>"</li>
-           <li>Click on "Next".</li>
+            <li>"From the dropdown menu select "<strong>Use the nano editor by default</strong>" and click on "Next".</li>
             {% comment %} "Adjusting your PATH environment" {% endcomment %}
-	   <li>Ensure that "<strong>Git from the command line and also from 3rd-party software</strong>" is selected. (If you don't do this gitbash will not work properly, requiring you to <strong>remove the GitBash installation, re-run the installer</strong> and to select the "Git from the command line and also from 3rd-party software" option.)</li>
-           <li>Click on "Next".</li>
+	   <li>Ensure that "<strong>Git from the command line and also from 3rd-party software</strong>" is selected and click on "Next". (If you don't do this gitbash will not work properly, requiring you to <strong>remove the GitBash installation, re-run the installer</strong> and to select the "Git from the command line and also from 3rd-party software" option.)</li>
 	  {% comment %} Choosing the SSH executable {% endcomment %}
-            <li>Select "<strong>Use the native Windows Secure Channel library</strong>".</li>
-           <li>Click on "Next".</li>
+            <li>Ensure that "<strong>Use the native Windows Secure Channel library</strong>" is selected and click on "Next".</li>
             {% comment %} Configuring the line ending conversions {% endcomment %}
-            <li>Select "<strong>Checkout Windows-style, commit Unix-style line endings</strong>".</li>
-           <li>Click on "Next".</li>
+            <li>Ensure that "<strong>Checkout Windows-style, commit Unix-style line endings</strong>" is selected and click on "Next".</li>
             {% comment %} Configuring the terminal emulator to use with Git Bash {% endcomment %}
-	    <li>Ensure that "<strong>Use Windows' default console window</strong>" is selected.</li>
-           <li>Click on "Next".</li>
+	    <li>Ensure that "<strong>Use Windows' default console window</strong>" is selected and click on "Next".</li>
             {% comment %} Configuring experimental performance tweaks {% endcomment %}
-            <li>Ensure that "<strong>Enable file system caching</strong>" and "<strong>Enable Git Credential Manager</strong>"                              are selected.</li>
-           <li>Click on "Next".</li>
+            <li>Ensure that "<strong>Enable file system caching</strong>" and "<strong>Enable Git Credential Manager</strong>"                              are selected and click on "Next".</li>
            <li>Click on "Install".</li>
             {% comment %} Installing {% endcomment %}
             {% comment %} Completing the Git Setup Wizard {% endcomment %}
