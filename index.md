@@ -360,7 +360,7 @@ If even this does not help, please get in touch with us using contact details ab
             {% comment %}  "Information" {% endcomment %}
             <li>Click on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.</li>
             {% comment %}  "Choosing Default Editor" {% endcomment %}
-            <li>"From the dropdown menu select "<strong>Use the nano editor by default</strong>" and click on "Next".</li>
+            <li>From the dropdown menu select "<strong>Use the nano editor by default</strong>" and click on "Next".</li>
             {% comment %} "Adjusting your PATH environment" {% endcomment %}
 	   <li>Ensure that "<strong>Git from the command line and also from 3rd-party software</strong>" is selected and click on "Next". (If you don't do this gitbash will not work properly, requiring you to <strong>remove the GitBash installation, re-run the installer</strong> and to select the "Git from the command line and also from 3rd-party software" option.)</li>
 	  {% comment %} Choosing the SSH executable {% endcomment %}
