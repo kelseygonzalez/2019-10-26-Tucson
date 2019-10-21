@@ -351,7 +351,6 @@ If even this does not help, please get in touch with us using contact details ab
   <div class="row">
     <div class="col-md-4">
       <h4 id="shell-windows">Windows</h4>
-      <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
       <ol>
         <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>
         {% comment %}  "Do you want to run this file?" {% endcomment %}
@@ -479,7 +478,6 @@ Writing code is much easier with respectively optimized text editors that includ
     </div>
     <div class="col-md-4">
       <h4 id="git-macosx">macOS</h4>
-      <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">Video Tutorial</a>
       <p>
         <strong>For OS X 10.9 and higher</strong>, install Git for Mac
         by downloading and running the most recent "mavericks" installer from
