@@ -184,23 +184,30 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
   <div class="col-md-6">
     <h3>Saturday October 26</h3>
     <table class="table table-striped">
-       <tr> <td>08:30</td>  <td><a href="http://swcarpentry.github.io/shell-novice/" target="_blank">Automate tasks with the Unix shell</a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a></td> </tr>
-      <tr> <td>10:30</td> <td>Coffee</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Unix shell/git/GitHub, cont.</td> </tr>
-      <tr> <td>14:45</td>  <td>Coffee</td> </tr>
-      <tr> <td>15:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/" target="_blank">Scientific Analyses with R</a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a></td> </tr>
+      <tr> <td>8:30-9:00</td> <td>Workshop Setup</td> </tr>
+      <tr> <td>9:00-10:30</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/unix/index.md" target="_blank">Automate tasks with the Unix shell-I</a></td> </tr>
+      <tr> <td>10:30-10:45</td> <td>Tea/Coffee Break</td> </tr>
+      <tr> <td>10:45-12:00</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/unix/index.md" target="_blank">Automate tasks with the Unix shell-II</a></td> </tr>
+      <tr> <td>12:00-13:00</td>  <td>Lunch break</td> </tr>
+      <tr> <td>13:00-14:30</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/git_lesson/master_lesson.md" target="_blank">git/GitHub-I</a></td> </tr>
+      <tr> <td>14:30-14:45</td>  <td>Tea/Coffee Break</td> </tr>
+      <tr> <td>14:45-16:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/git_lesson/master_lesson.md" target="_blank">git/GitHub-II</a></td> </tr>
+      <tr> <td>16:00-17:00</td>  <td>Unix Challenge</td> </tr>
       <tr> <td>17:00</td>  <td>End of Day</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Sunday October 27</h3>
     <table class="table table-striped">
-      <tr> <td>08:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-inflammation/" target="_blank">Scientific Analyses with R</a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
-      <tr> <td>10:30</td>  <td>Coffee</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>R/R-Studio/git/GitHub, cont.</td> </tr>
-      <tr> <td>14:45</td>  <td>Coffee</td> </tr>
+      <tr> <td>8:30-9:00</td> <td>Workshop Setup</td> </tr>
+      <tr> <td>9:00-10:30</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-October-Resources/blob/master/r_tutorials/01_introduction%20%26%2004_Data%20Structures.R" target="_blank">R/R-Studio Introduction and Data Structures</a></td> </tr>
+      <tr> <td>10:30-10:45</td> <td>Tea/Coffee Break</td> </tr>
+      <tr> <td>10:45-12:00</td> <td>R Data Frames & Plotting</td> </tr>
+      <tr> <td>12:00-13:00</td>  <td>Lunch break</td> </tr>
+      <tr> <td>13:00-14:30</td>  <td>R Loops</td> </tr>
+      <tr> <td>14:30-14:45</td>  <td>Tea/Coffee Break</td> </tr>
+      <tr> <td>14:45-16:00</td>  <td>dplyr</td> </tr>
+      <tr> <td>16:00-17:00</td>  <td>R Challenge</td> </tr>
       <tr> <td>17:00</td>  <td>End of Day</td> </tr>
     </table>
   </div>
