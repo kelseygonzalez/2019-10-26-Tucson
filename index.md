@@ -206,8 +206,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
       <tr> <td>12:00-13:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:00-14:30</td>  <td>R Loops</td> </tr>
       <tr> <td>14:30-14:45</td>  <td>Tea/Coffee Break</td> </tr>
-      <tr> <td>14:45-16:00</td>  <td>dplyr</td> </tr>
-      <tr> <td>16:00-17:00</td>  <td>R Challenge</td> </tr>
+      <tr> <td>14:45-16:00</td>  <td>R Challenge</td> </tr>
+      <tr> <td>16:00-17:00</td>  <td>dplyr</td> </tr>
       <tr> <td>17:00</td>  <td>End of Day</td> </tr>
     </table>
   </div>
